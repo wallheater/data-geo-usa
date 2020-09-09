@@ -1,0 +1,66 @@
+[
+  {
+    "district": "1",
+    "last_name": "Hagedorn",
+    "first_name": "Jim",
+    "title": "Rep.",
+    "nickname": "",
+    "party": "R"
+  },
+  {
+    "district": "2",
+    "last_name": "Craig",
+    "first_name": "Angie",
+    "title": "Rep.",
+    "nickname": "",
+    "party": "DFL"
+  },
+  {
+    "district": "3",
+    "last_name": "Phillips",
+    "first_name": "Dean",
+    "title": "Rep.",
+    "nickname": "",
+    "party": "DFL"
+  },
+  {
+    "district": "4",
+    "last_name": "McCollum",
+    "first_name": "Betty",
+    "title": "Rep.",
+    "nickname": "",
+    "party": "DFL"
+  },
+  {
+    "district": "5",
+    "last_name": "Omar",
+    "first_name": "Ilhan",
+    "title": "Rep.",
+    "nickname": "",
+    "party": "DFL"
+  },
+  {
+    "district": "6",
+    "last_name": "Emmer",
+    "first_name": "Tom",
+    "title": "Rep.",
+    "nickname": "",
+    "party": "R"
+  },
+  {
+    "district": "7",
+    "last_name": "Peterson",
+    "first_name": "Collin",
+    "title": "Rep.",
+    "nickname": "",
+    "party": "DFL"
+  },
+  {
+    "district": "8",
+    "last_name": "Stauber",
+    "first_name": "Pete",
+    "title": "Rep.",
+    "nickname": "",
+    "party": "R"
+  }
+ ]

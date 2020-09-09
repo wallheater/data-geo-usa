@@ -1,0 +1,538 @@
+[
+  {
+    "district": "01",
+    "last_name": "Johnson",
+    "first_name": "Mark",
+    "title": "Senator",
+    "nickname": "",
+    "party": "R"
+  },
+  {
+    "district": "02",
+    "last_name": "Utke",
+    "first_name": "Paul J.",
+    "title": "Senator",
+    "nickname": "",
+    "party": "R"
+  },
+  {
+    "district": "03",
+    "last_name": "Bakk",
+    "first_name": "Thomas M.",
+    "title": "Senator",
+    "nickname": "",
+    "party": "DFL"
+  },
+  {
+    "district": "04",
+    "last_name": "Eken",
+    "first_name": "Kent",
+    "title": "Senator",
+    "nickname": "",
+    "party": "DFL"
+  },
+  {
+    "district": "05",
+    "last_name": "Eichorn",
+    "first_name": "Justin D.",
+    "title": "Senator",
+    "nickname": "",
+    "party": "R"
+  },
+  {
+    "district": "06",
+    "last_name": "Tomassoni",
+    "first_name": "David J.",
+    "title": "Senator",
+    "nickname": "",
+    "party": "DFL"
+  },
+  {
+    "district": "07",
+    "last_name": "Simonson",
+    "first_name": "Erik",
+    "title": "Senator",
+    "nickname": "",
+    "party": "DFL"
+  },
+  {
+    "district": "08",
+    "last_name": "Ingebrigtsen",
+    "first_name": "Bill",
+    "title": "Senator",
+    "nickname": "",
+    "party": "R"
+  },
+  {
+    "district": "09",
+    "last_name": "Gazelka",
+    "first_name": "Paul E.",
+    "title": "Senator",
+    "nickname": "",
+    "party": "R"
+  },
+  {
+    "district": "10",
+    "last_name": "Ruud",
+    "first_name": "Carrie",
+    "title": "Senator",
+    "nickname": "",
+    "party": "R"
+  },
+  {
+    "district": "11",
+    "last_name": "Rarick",
+    "first_name": "Jason",
+    "title": "Senator",
+    "nickname": "",
+    "party": "R"
+  },
+  {
+    "district": "12",
+    "last_name": "Westrom",
+    "first_name": "Torrey N.",
+    "title": "Senator",
+    "nickname": "",
+    "party": "R"
+  },
+  {
+    "district": "13",
+    "last_name": "Howe",
+    "first_name": "Jeff",
+    "title": "Senator",
+    "nickname": "",
+    "party": "R"
+  },
+  {
+    "district": "14",
+    "last_name": "Relph",
+    "first_name": "Jerry",
+    "title": "Senator",
+    "nickname": "",
+    "party": "R"
+  },
+  {
+    "district": "15",
+    "last_name": "Mathews",
+    "first_name": "Andrew",
+    "title": "Senator",
+    "nickname": "",
+    "party": "R"
+  },
+  {
+    "district": "16",
+    "last_name": "Dahms",
+    "first_name": "Gary H.",
+    "title": "Senator",
+    "nickname": "",
+    "party": "R"
+  },
+  {
+    "district": "17",
+    "last_name": "Lang",
+    "first_name": "Andrew R.",
+    "title": "Senator",
+    "nickname": "",
+    "party": "R"
+  },
+  {
+    "district": "18",
+    "last_name": "Newman",
+    "first_name": "Scott J.",
+    "title": "Senator",
+    "nickname": "",
+    "party": "R"
+  },
+  {
+    "district": "19",
+    "last_name": "Frentz",
+    "first_name": "Nick A.",
+    "title": "Senator",
+    "nickname": "",
+    "party": "DFL"
+  },
+  {
+    "district": "20",
+    "last_name": "Draheim",
+    "first_name": "Rich",
+    "title": "Senator",
+    "nickname": "",
+    "party": "R"
+  },
+  {
+    "district": "21",
+    "last_name": "Goggin",
+    "first_name": "Michael P.",
+    "title": "Senator",
+    "nickname": "",
+    "party": "R"
+  },
+  {
+    "district": "22",
+    "last_name": "Weber",
+    "first_name": "Bill",
+    "title": "Senator",
+    "nickname": "",
+    "party": "R"
+  },
+  {
+    "district": "23",
+    "last_name": "Rosen",
+    "first_name": "Julie A.",
+    "title": "Senator",
+    "nickname": "",
+    "party": "R"
+  },
+  {
+    "district": "24",
+    "last_name": "Jasinski",
+    "first_name": "John R.",
+    "title": "Senator",
+    "nickname": "",
+    "party": "R"
+  },
+  {
+    "district": "25",
+    "last_name": "Senjem",
+    "first_name": "David H.",
+    "title": "Senator",
+    "nickname": "",
+    "party": "R"
+  },
+  {
+    "district": "26",
+    "last_name": "Nelson",
+    "first_name": "Carla J.",
+    "title": "Senator",
+    "nickname": "",
+    "party": "R"
+  },
+  {
+    "district": "27",
+    "last_name": "Sparks",
+    "first_name": "Dan",
+    "title": "Senator",
+    "nickname": "",
+    "party": "DFL"
+  },
+  {
+    "district": "28",
+    "last_name": "Miller",
+    "first_name": "Jeremy R.",
+    "title": "Senator",
+    "nickname": "",
+    "party": "R"
+  },
+  {
+    "district": "29",
+    "last_name": "Anderson",
+    "first_name": "Bruce D.",
+    "title": "Senator",
+    "nickname": "",
+    "party": "R"
+  },
+  {
+    "district": "30",
+    "last_name": "Kiffmeyer",
+    "first_name": "Mary",
+    "title": "Senator",
+    "nickname": "",
+    "party": "R"
+  },
+  {
+    "district": "31",
+    "last_name": "Benson",
+    "first_name": "Michelle R.",
+    "title": "Senator",
+    "nickname": "",
+    "party": "R"
+  },
+  {
+    "district": "32",
+    "last_name": "Koran",
+    "first_name": "Mark W.",
+    "title": "Senator",
+    "nickname": "",
+    "party": "R"
+  },
+  {
+    "district": "33",
+    "last_name": "Osmek",
+    "first_name": "David J.",
+    "title": "Senator",
+    "nickname": "",
+    "party": "R"
+  },
+  {
+    "district": "34",
+    "last_name": "Limmer",
+    "first_name": "Warren",
+    "title": "Senator",
+    "nickname": "",
+    "party": "R"
+  },
+  {
+    "district": "35",
+    "last_name": "Abeler",
+    "first_name": "Jim",
+    "title": "Senator",
+    "nickname": "",
+    "party": "R"
+  },
+  {
+    "district": "36",
+    "last_name": "Hoffman",
+    "first_name": "John A.",
+    "title": "Senator",
+    "nickname": "",
+    "party": "DFL"
+  },
+  {
+    "district": "37",
+    "last_name": "Newton",
+    "first_name": "Jerry",
+    "title": "Senator",
+    "nickname": "",
+    "party": "DFL"
+  },
+  {
+    "district": "38",
+    "last_name": "Chamberlain",
+    "first_name": "Roger C.",
+    "title": "Senator",
+    "nickname": "",
+    "party": "R"
+  },
+  {
+    "district": "39",
+    "last_name": "Housley",
+    "first_name": "Karin",
+    "title": "Senator",
+    "nickname": "",
+    "party": "R"
+  },
+  {
+    "district": "40",
+    "last_name": "Eaton",
+    "first_name": "Chris A.",
+    "title": "Senator",
+    "nickname": "",
+    "party": "DFL"
+  },
+  {
+    "district": "41",
+    "last_name": "Laine",
+    "first_name": "Carolyn",
+    "title": "Senator",
+    "nickname": "",
+    "party": "DFL"
+  },
+  {
+    "district": "42",
+    "last_name": "Isaacson",
+    "first_name": "Jason",
+    "title": "Senator",
+    "nickname": "",
+    "party": "DFL"
+  },
+  {
+    "district": "43",
+    "last_name": "Wiger",
+    "first_name": "Charles W.",
+    "title": "Senator",
+    "nickname": "Chuck",
+    "party": "DFL"
+  },
+  {
+    "district": "44",
+    "last_name": "Anderson",
+    "first_name": "Paul T.",
+    "title": "Senator",
+    "nickname": "",
+    "party": "R"
+  },
+  {
+    "district": "45",
+    "last_name": "Rest",
+    "first_name": "Ann H.",
+    "title": "Senator",
+    "nickname": "",
+    "party": "DFL"
+  },
+  {
+    "district": "46",
+    "last_name": "Latz",
+    "first_name": "Ron",
+    "title": "Senator",
+    "nickname": "",
+    "party": "DFL"
+  },
+  {
+    "district": "47",
+    "last_name": "Jensen",
+    "first_name": "Scott M.",
+    "title": "Senator",
+    "nickname": "",
+    "party": "R"
+  },
+  {
+    "district": "48",
+    "last_name": "Cwodzinski",
+    "first_name": "Steve",
+    "title": "Senator",
+    "nickname": "",
+    "party": "DFL"
+  },
+  {
+    "district": "49",
+    "last_name": "Franzen",
+    "first_name": "Melisa",
+    "title": "Senator",
+    "nickname": "",
+    "party": "DFL"
+  },
+  {
+    "district": "50",
+    "last_name": "Wiklund",
+    "first_name": "Melissa H.",
+    "title": "Senator",
+    "nickname": "",
+    "party": "DFL"
+  },
+  {
+    "district": "51",
+    "last_name": "Carlson",
+    "first_name": "Jim",
+    "title": "Senator",
+    "nickname": "",
+    "party": "DFL"
+  },
+  {
+    "district": "52",
+    "last_name": "Klein",
+    "first_name": "Matt D.",
+    "title": "Senator",
+    "nickname": "",
+    "party": "DFL"
+  },
+  {
+    "district": "53",
+    "last_name": "Kent",
+    "first_name": "Susan",
+    "title": "Senator",
+    "nickname": "",
+    "party": "DFL"
+  },
+  {
+    "district": "54",
+    "last_name": "Bigham",
+    "first_name": "Karla",
+    "title": "Senator",
+    "nickname": "",
+    "party": "DFL"
+  },
+  {
+    "district": "55",
+    "last_name": "Pratt",
+    "first_name": "Eric R.",
+    "title": "Senator",
+    "nickname": "",
+    "party": "R"
+  },
+  {
+    "district": "56",
+    "last_name": "Hall",
+    "first_name": "Dan D.",
+    "title": "Senator",
+    "nickname": "",
+    "party": "R"
+  },
+  {
+    "district": "57",
+    "last_name": "Clausen",
+    "first_name": "Gregory D.",
+    "title": "Senator",
+    "nickname": "",
+    "party": "DFL"
+  },
+  {
+    "district": "58",
+    "last_name": "Little",
+    "first_name": "Matt",
+    "title": "Senator",
+    "nickname": "",
+    "party": "DFL"
+  },
+  {
+    "district": "59",
+    "last_name": "Champion",
+    "first_name": "Bobby Joe",
+    "title": "Senator",
+    "nickname": "",
+    "party": "DFL"
+  },
+  {
+    "district": "60",
+    "last_name": "Dziedzic",
+    "first_name": "Kari",
+    "title": "Senator",
+    "nickname": "",
+    "party": "DFL"
+  },
+  {
+    "district": "61",
+    "last_name": "Dibble",
+    "first_name": "D. Scott",
+    "title": "Senator",
+    "nickname": "",
+    "party": "DFL"
+  },
+  {
+    "district": "62",
+    "last_name": "Hayden",
+    "first_name": "Jeff",
+    "title": "Senator",
+    "nickname": "",
+    "party": "DFL"
+  },
+  {
+    "district": "63",
+    "last_name": "Torres Ray",
+    "first_name": "Patricia",
+    "title": "Senator",
+    "nickname": "",
+    "party": "DFL"
+  },
+  {
+    "district": "64",
+    "last_name": "Cohen",
+    "first_name": "Richard",
+    "title": "Senator",
+    "nickname": "",
+    "party": "DFL"
+  },
+  {
+    "district": "65",
+    "last_name": "Pappas",
+    "first_name": "Sandra L.",
+    "title": "Senator",
+    "nickname": "",
+    "party": "DFL"
+  },
+  {
+    "district": "66",
+    "last_name": "Marty",
+    "first_name": "John",
+    "title": "Senator",
+    "nickname": "",
+    "party": "DFL"
+  },
+  {
+    "district": "67",
+    "last_name": "Hawj",
+    "first_name": "Foung",
+    "title": "Senator",
+    "nickname": "",
+    "party": "DFL"
+  }
+]
