@@ -121,23 +121,17 @@
   },
   {
     "district": "19A",
-    "last_name": "Brand",
-    "first_name": "Jeff",
+    "last_name": "Akland",
+    "first_name": "Susan",
     "title": "Rep.",
-    "nickname": "",
-    "party": "DFL",
-    "home_city": "St. Peter",
-    "home_zip": "56082"
+    "party": "R"
   },
   {
     "district": "56A",
-    "last_name": "Cantrell",
-    "first_name": "Hunter",
+    "last_name": "Hanson",
+    "first_name": "Jess",
     "title": "Rep.",
-    "nickname": "",
-    "party": "DFL",
-    "home_city": "Savage",
-    "home_zip": "55378"
+    "party": "DFL"
   },
   {
     "district": "50B",
@@ -151,13 +145,10 @@
   },
   {
     "district": "45A",
-    "last_name": "Carlson Sr.",
-    "first_name": "Lyndon",
+    "last_name": "Frazier",
+    "first_name": "Cedrick",
     "title": "Rep.",
-    "nickname": "",
-    "party": "DFL",
-    "home_city": "Crystal",
-    "home_zip": "55427"
+    "party": "DFL"
   },
   {
     "district": "39B",
@@ -171,23 +162,17 @@
   },
   {
     "district": "54A",
-    "last_name": "Claflin",
-    "first_name": "Anne",
+    "last_name": "Franke",
+    "first_name": "Keith",
     "title": "Rep.",
-    "nickname": "",
-    "party": "DFL",
-    "home_city": "South St. Paul",
-    "home_zip": "55075"
+    "party": "R"
   },
   {
     "district": "19B",
-    "last_name": "Considine Jr.",
-    "first_name": "John (Jack)",
+    "last_name": "Frederick",
+    "first_name": "Luke",
     "title": "Rep.",
-    "nickname": "Jack",
-    "party": "DFL",
-    "home_city": "Mankato",
-    "home_zip": "56001"
+    "party": "DFL"
   },
   {
     "district": "24B",
@@ -231,13 +216,10 @@
   },
   {
     "district": "59B",
-    "last_name": "Dehn",
-    "first_name": "Raymond",
+    "last_name": "Agbaje",
+    "first_name": "Esther",
     "title": "Rep.",
-    "nickname": "",
-    "party": "DFL",
-    "home_city": "Minneapolis",
-    "home_zip": "55411"
+    "party": "DFL"
   },
   {
     "district": "13A",
@@ -311,13 +293,10 @@
   },
   {
     "district": "01A",
-    "last_name": "Fabian",
-    "first_name": "Dan",
+    "last_name": "Burkel",
+    "first_name": "John",
     "title": "Rep.",
-    "nickname": "",
-    "party": "R",
-    "home_city": "Roseau",
-    "home_zip": "56751"
+    "party": "R"
   },
   {
     "district": "43A",
@@ -401,8 +380,8 @@
   },
   {
     "district": "23A",
-    "last_name": "Gunther",
-    "first_name": "Bob",
+    "last_name": "Olson",
+    "first_name": "Bjorn",
     "title": "Rep.",
     "nickname": "",
     "party": "R",
@@ -421,13 +400,10 @@
   },
   {
     "district": "51B",
-    "last_name": "Halverson",
-    "first_name": "Laurie",
+    "last_name": "Reyer",
+    "first_name": "Liz",
     "title": "Rep.",
-    "nickname": "",
-    "party": "DFL",
-    "home_city": "Eagan",
-    "home_zip": "55123"
+    "party": "DFL"
   },
   {
     "district": "22B",
@@ -631,23 +607,17 @@
   },
   {
     "district": "41B",
-    "last_name": "Kunesh-Podein",
-    "first_name": "Mary",
+    "last_name": "Feist",
+    "first_name": "Sandra",
     "title": "Rep.",
-    "nickname": "",
-    "party": "DFL",
-    "home_city": "New Brighton",
-    "home_zip": "55112"
+    "party": "DFL"
   },
   {
     "district": "05B",
-    "last_name": "Layman",
-    "first_name": "Sandy",
+    "last_name": "Igo",
+    "first_name": "Spencer",
     "title": "Rep.",
-    "nickname": "",
-    "party": "R",
-    "home_city": "Cohasset",
-    "home_zip": "55721"
+    "party": "R"
   },
   {
     "district": "59A",
@@ -661,13 +631,10 @@
   },
   {
     "district": "66B",
-    "last_name": "Lesch",
-    "first_name": "John",
+    "last_name": "Hollins",
+    "first_name": "Athena",
     "title": "Rep.",
-    "nickname": "",
-    "party": "DFL",
-    "home_city": "St. Paul",
-    "home_zip": "55103"
+    "party": "DFL"
   },
   {
     "district": "26A",
@@ -681,13 +648,10 @@
   },
   {
     "district": "04A",
-    "last_name": "Lien",
-    "first_name": "Ben",
+    "last_name": "Keeler",
+    "first_name": "Heather",
     "title": "Rep.",
-    "nickname": "",
-    "party": "DFL",
-    "home_city": "Moorhead",
-    "home_zip": "56560"
+    "party": "DFL"
   },
   {
     "district": "43B",
@@ -761,23 +725,17 @@
   },
   {
     "district": "67A",
-    "last_name": "Mahoney",
-    "first_name": "Tim",
+    "last_name": "Thompson",
+    "first_name": "John",
     "title": "Rep.",
-    "nickname": "",
-    "party": "DFL",
-    "home_city": "St. Paul",
-    "home_zip": "55106"
+    "party": "DFL"
   },
   {
     "district": "56B",
-    "last_name": "Mann",
-    "first_name": "Alice",
+    "last_name": "Berg",
+    "first_name": "Kaela",
     "title": "Rep.",
-    "nickname": "",
-    "party": "DFL",
-    "home_city": "Lakeville",
-    "home_zip": "55044"
+    "party": "DFL"
   },
   {
     "district": "65B",
@@ -931,13 +889,10 @@
   },
   {
     "district": "08A",
-    "last_name": "Nornes",
-    "first_name": "Bud",
+    "last_name": "Rasmusson",
+    "first_name": "Jordan",
     "title": "Rep.",
-    "nickname": "",
-    "party": "R",
-    "home_city": "Fergus Falls",
-    "home_zip": "56537"
+    "party": "R"
   },
   {
     "district": "13B",
@@ -981,13 +936,10 @@
   },
   {
     "district": "05A",
-    "last_name": "Persell",
-    "first_name": "John",
+    "last_name": "Bliss",
+    "first_name": "Matt",
     "title": "Rep.",
-    "nickname": "",
-    "party": "DFL",
-    "home_city": "Bemidji",
-    "home_zip": "56601"
+    "party": "R"
   },
   {
     "district": "24A",
@@ -1021,13 +973,10 @@
   },
   {
     "district": "27B",
-    "last_name": "Poppe",
-    "first_name": "Jeanne",
+    "last_name": "Mueller",
+    "first_name": "Patricia",
     "title": "Rep.",
-    "nickname": "",
-    "party": "DFL",
-    "home_city": "Austin",
-    "home_zip": "55912"
+    "party": "R"
   },
   {
     "district": "09A",
@@ -1051,23 +1000,17 @@
   },
   {
     "district": "25A",
-    "last_name": "Quam",
-    "first_name": "Duane",
+    "last_name": "Boldon",
+    "first_name": "Liz",
     "title": "Rep.",
-    "nickname": "",
-    "party": "R",
-    "home_city": "Byron",
-    "home_zip": "55920"
+    "party": "R"
   },
   {
     "district": "11B",
-    "last_name": "Rarick",
-    "first_name": "Jason",
+    "last_name": "Nelson",
+    "first_name": "Nathan",
     "title": "Rep.",
-    "nickname": "",
-    "party": "R",
-    "home_city": "",
-    "home_zip": ""
+    "party": "R"
   },
   {
     "district": "52B",
@@ -1091,13 +1034,10 @@
   },
   {
     "district": "38A",
-    "last_name": "Runbeck",
-    "first_name": "Linda",
+    "last_name": "Raleigh",
+    "first_name": "Donald",
     "title": "Rep.",
-    "nickname": "",
-    "party": "R",
-    "home_city": "Circle Pines",
-    "home_zip": "55014"
+    "party": "R"
   },
   {
     "district": "53B",
@@ -1121,13 +1061,10 @@
   },
   {
     "district": "25B",
-    "last_name": "Sauke",
-    "first_name": "Duane",
+    "last_name": "Boldon",
+    "first_name": "Liz",
     "title": "Rep.",
-    "nickname": "",
-    "party": "DFL",
-    "home_city": "Rochester",
-    "home_zip": "55906"
+    "party": "DFL"
   },
   {
     "district": "22A",
@@ -1145,9 +1082,7 @@
     "first_name": "Jennifer",
     "title": "Rep.",
     "nickname": "",
-    "party": "DFL",
-    "home_city": "",
-    "home_zip": ""
+    "party": "DFL"
   },
   {
     "district": "35B",
@@ -1191,13 +1126,10 @@
   },
   {
     "district": "55A",
-    "last_name": "Tabke",
-    "first_name": "Brad",
+    "last_name": "Mortenson",
+    "first_name": "Erik",
     "title": "Rep.",
-    "nickname": "",
-    "party": "DFL",
-    "home_city": "Shakopee",
-    "home_zip": "55379"
+    "party": "R"
   },
   {
     "district": "14A",
@@ -1241,23 +1173,17 @@
   },
   {
     "district": "20A",
-    "last_name": "Vogel",
-    "first_name": "Bob",
+    "last_name": "Pfarr",
+    "first_name": "Brian",
     "title": "Rep.",
-    "nickname": "",
-    "party": "R",
-    "home_city": "Elko New Market",
-    "home_zip": "55020"
+    "party": "R"
   },
   {
     "district": "63B",
-    "last_name": "Wagenius",
-    "first_name": "Jean",
+    "last_name": "Greenman",
+    "first_name": "Emma",
     "title": "Rep.",
-    "nickname": "",
-    "party": "DFL",
-    "home_city": "Minneapolis",
-    "home_zip": "55417"
+    "party": "DFL"
   },
   {
     "district": "38B",

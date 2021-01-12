@@ -105,11 +105,11 @@
   },
   {
     "district": "14",
-    "last_name": "Relph",
-    "first_name": "Jerry",
+    "last_name": "Putnam",
+    "first_name": "Aric",
     "title": "Senator",
     "nickname": "",
-    "party": "R"
+    "party": "DFL"
   },
   {
     "district": "15",
@@ -209,11 +209,11 @@
   },
   {
     "district": "27",
-    "last_name": "Sparks",
-    "first_name": "Dan",
+    "last_name": "Dornink",
+    "first_name": "Gene",
     "title": "Senator",
     "nickname": "",
-    "party": "DFL"
+    "party": "R"
   },
   {
     "district": "28",
@@ -321,8 +321,8 @@
   },
   {
     "district": "41",
-    "last_name": "Laine",
-    "first_name": "Carolyn",
+    "last_name": "Kunesh-Podein",
+    "first_name": "Mary",
     "title": "Senator",
     "nickname": "",
     "party": "DFL"
@@ -345,11 +345,11 @@
   },
   {
     "district": "44",
-    "last_name": "Anderson",
-    "first_name": "Paul T.",
+    "last_name": "Johnson Stewart",
+    "first_name": "Ann",
     "title": "Senator",
     "nickname": "",
-    "party": "R"
+    "party": "DFL"
   },
   {
     "district": "45",
@@ -369,8 +369,8 @@
   },
   {
     "district": "47",
-    "last_name": "Jensen",
-    "first_name": "Scott M.",
+    "last_name": "Coleman",
+    "first_name": "Julia",
     "title": "Senator",
     "nickname": "",
     "party": "R"
@@ -441,11 +441,11 @@
   },
   {
     "district": "56",
-    "last_name": "Hall",
-    "first_name": "Dan D.",
+    "last_name": "Port",
+    "first_name": "Lindsey",
     "title": "Senator",
     "nickname": "",
-    "party": "R"
+    "party": "DFL"
   },
   {
     "district": "57",
@@ -457,11 +457,11 @@
   },
   {
     "district": "58",
-    "last_name": "Little",
-    "first_name": "Matt",
+    "last_name": "Duckworth",
+    "first_name": "Zach",
     "title": "Senator",
     "nickname": "",
-    "party": "DFL"
+    "party": "R"
   },
   {
     "district": "59",
@@ -489,8 +489,8 @@
   },
   {
     "district": "62",
-    "last_name": "Hayden",
-    "first_name": "Jeff",
+    "last_name": "Fateh",
+    "first_name": "Omar",
     "title": "Senator",
     "nickname": "",
     "party": "DFL"
@@ -505,8 +505,8 @@
   },
   {
     "district": "64",
-    "last_name": "Cohen",
-    "first_name": "Richard",
+    "last_name": "Murphy",
+    "first_name": "Erin",
     "title": "Senator",
     "nickname": "",
     "party": "DFL"
